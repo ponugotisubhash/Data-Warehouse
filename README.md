@@ -19,7 +19,7 @@ Data Architecture: Designing a Modern Data Warehouse Using Medallion Architectur
 ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
 Data Modeling: Developing fact and dimension tables optimized for analytical queries.
 Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
----
+
 ### 🚀 Project Requirements
 Building the Data Warehouse (Data Engineering)
 Objective
